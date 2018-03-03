@@ -1,37 +1,41 @@
-![Web Developer Roadmap](http://i.imgur.com/GyvcunJ.png)
+![Web Developer Roadmap](https://i.imgur.com/oxsayps.png)
 
-> Roadmap to becoming a web developer in 2017
+> Roadmap to becoming a web developer in 2018
 
 Below you find a set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a frontend, backend or a devops. I made these charts for an old professor of mine who wanted something to share with his college students to give them a perspective.
 
 If you think that these can be improved in anyway, please do suggest.
 
-***
+![split](https://i.imgur.com/QgVXt8U.png)
 
-<p align="center"><b> Did you like this guide and want more of the similar content? </b><br>Subscribe for the launch of <a href="http://hugobots.com">Hugobots</a> or <a href="http://twitter.com/kamranahmedse">follow me on twitter</a>!</p>
+<p align="center">
+<b>🎉 I am preparing a FREE series on Fullstack Development  🎉</b><br><a href="http://youtube.com/c/kamranahmed_se">Subscribe to my youtube channel</a> if you are interested!
+  <p align="center">Few keywords – ES6, Tooling, React, Redux, Jest and Enzyme, NodeJS, Mocha and Chai<br>Everything is going to be <b>project based with real world usage</b></p>
+</p>
 
-***
+![split](https://i.imgur.com/QgVXt8U.png)
+
+<sub>Check out my [blog](http://kamranahmed.info) and say "hi" on [Twitter](https://twitter.com/kamranahmedse).</sub>
+
 
 
 ## 🚀 Introduction
 
-![](https://i.imgur.com/MWkeM18.png)
+![](https://i.imgur.com/OZUOUtI.png)
 
 ## 🎨 Front-end Roadmap
 
-![](https://i.imgur.com/qx54HvK.png)
+![](https://i.imgur.com/WrfLESm.png)
 
 ## 👽 Back-end Roadmap
 
 For the backend, personally I would prefer Node.js and PHP 7 for the full time. Plus, I have been experimenting lately with Go and I quite like it. Apart from these, if I have to choose another one, I would go for Ruby. However this is just my personal preference, you can choose any of the shown languages and you will be good.
 
-![](https://i.imgur.com/jz4xrlQ.png)
+![](https://i.imgur.com/Ihg4YAb.png)
 
 ## 👷 DevOps Roadmap
 
-![](https://i.imgur.com/z23zTH3.png)
-
-<br>
+![](https://i.imgur.com/pyg9mH1.png)
 
 ## 🚦 Wrap Up
 
@@ -56,8 +60,9 @@ The roadmaps are built using [Balsamiq](https://balsamiq.com/products/mockups/).
 ## Sponsored By
 
 - [Hackr.io - Find & Share the Best Online Programming Courses & Tutorials](https://hackr.io)
-- [FancyGrid - JavaScript grid library with charts integration and server communication.](http://fancygrid.com)
+- [Highig - Think and its done](http://highig.com/)
 
 ## License
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC0%201.0-brightgreen.svg?style=flat-square)](https://creativecommons.org/licenses/by/4.0/)
